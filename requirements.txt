@@ -1,0 +1,7 @@
+Python				3.8.0
+PyAutoGUI				0.9.53
+autopy				4.0.0	
+mediapipe				0.9.1.0	
+numpy	1.24.2			1.24.3
+opencv-contrib-python		4.7.0.68	
+opencv-python			4.6.0.66	
